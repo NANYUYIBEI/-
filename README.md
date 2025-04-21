@@ -4,7 +4,7 @@
 可以使用 AutoHotkey 编写脚本，实现双击桌面空白区域时切换桌面图标的显示状态。
 
 ## 使用步骤：
-- 安装 AutoHotkey。
+- 安装 [AutoHotkey](https://www.autohotkey.com/)
 
 - 双击运行脚本。
 
